@@ -1,0 +1,18 @@
+Day 1
+
+Day 2
+Interview
+Q1: Why are front and backend necessary? Why don't we use only the frontend directly?
+Q2:
+Day 3
+Interview
+Qn 1: What are 201, 202, etc. status codes (sent only by the backend)?
+Points:
+Methods:
+POST: Send info
+GET: Ask for content
+PUT: Update
+PATCH: Partially update
+DELETE: Delete info
+likedin ma hr lai connection request send garne
+tele uniharulai yaad aunxa pahila yeslai oppurtunity diu
